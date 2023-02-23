@@ -1,4 +1,4 @@
-# Kevin-Cookie-Company
+# Kevin Cookie Company
 This is my second Excel project done in Data Analysis Field. This project, Kevin Cookie is based on : 
 * Market &amp; Cookie type
 * Unit sold each month 
